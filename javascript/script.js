@@ -1,1 +1,1 @@
-console.log("sala  ali2")
+console.log("sala  ali2 22")
